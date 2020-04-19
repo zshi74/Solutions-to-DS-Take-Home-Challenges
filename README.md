@@ -1,3 +1,3 @@
-# Natural Language Processing in Python
+# Data Science Take Home Challenges
 
-More to come
+This repo stores my solutions to the book: **A solutions to Data Science Take-Home Challenges**.
